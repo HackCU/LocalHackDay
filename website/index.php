@@ -688,6 +688,24 @@
                             </div>
                         </div>
 
+                        <!--Muhammad Khan-->
+                        <div class="col-md-2">
+                            <div class="team-container wow bounceIn" data-wow-delay="0.8s">
+                                <div class="team-item">
+                                    <div class="team-triangle">
+                                        <div class="content">
+                                            <img src="img/organizers/muhammad.jpg" alt="Muhammad Khan"/>
+                                            <div class="team-hover text-center">
+                                                <i class="fa fa-gears"></i>
+                                                <a href="https://www.linkedin.com/in/muhammadmuneebullahkhan" target="_blank">
+                                                    <p>Muhammad Khan</p></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
