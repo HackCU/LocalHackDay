@@ -378,7 +378,7 @@
             </div>
         </div>
         <div class="page-header-wrapper">
-            <div class="container">
+            <div class="container" id="partners-section">
                 <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
                     <h2>Our Partners</h2>
                     <div class="devider"></div>

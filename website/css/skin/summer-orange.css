@@ -264,10 +264,19 @@ a, a:hover, a:focus {
 
 #sponsors-section img{
     opacity: 0.5;
-    max-width: 200px;
+    max-width: 300px;
 }
 
 #sponsors-section img:hover {
+    opacity: 1;
+}
+
+#partners-section img{
+    opacity: 0.5;
+    max-width: 200px;
+}
+
+#partners-section img:hover {
     opacity: 1;
 }
 
