@@ -9,7 +9,6 @@
 <html lang="en-US">
 <?php include('head.php'); ?>
 <body data-spy="scroll" data-target="#main-navbar">
-<div class="page-loader"></div>  <!-- Display loading image while page loads -->
 <div class="body">
 
     <?php include('header.php'); ?>
