@@ -681,6 +681,24 @@
                             </div>
                         </div>
 
+                        <!--Apara Venkateswaran-->
+                        <div class="col-md-2">
+                            <div class="team-container wow bounceIn" data-wow-delay="0.8s">
+                                <div class="team-item">
+                                    <div class="team-triangle">
+                                        <div class="content">
+                                            <img src="img/organizers/apara.jpg" alt="Apara Venkateswaran"/>
+                                            <div class="team-hover text-center">
+                                                <i class="fa fa-gears"></i>
+                                                <a href="https://traxex33.github.io/" target="_blank">
+                                                    <p>Apara Venkateswaran</p></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
@@ -698,41 +716,6 @@
             </div>
         </div>
     </section>
-
-
-    <!--======== REVIEWS SECTION ========-->
-    <!--<section id="reviews-section">-->
-    <!--<div id="testimonial-trigger" class="testimonial text-white parallax" data-stellar-background-ratio="0.5"-->
-    <!--style="background-image: url(img/team.png);">-->
-    <!--<div class="cover"></div>-->
-
-    <!--<div class="page-header-wrapper">-->
-    <!--<div class="container">-->
-    <!--<div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">-->
-    <!--<h2>Reviews</h2>-->
-    <!--<div class="devider"></div>-->
-    <!--<p class="subtitle">What people say about HackCU</p>-->
-    <!--</div>-->
-    <!--</div>-->
-    <!--</div>-->
-
-    <!--<div class="container">-->
-    <!--<div class="testimonial-inner center-block text-center">-->
-    <!--<div id="owl-testimonial" class="owl-carousel">-->
-    <!--<div class="item">-->
-    <!--<blockquote>-->
-    <!--<p>"HackCU last year was an amazing experience, and I can see it around campus that it’s-->
-    <!--inspired a lot of people to make cool things... It’s really empowering to have the-->
-    <!--time and resources to make something you always wanted to."</p>-->
-    <!--<footer><cite title="Source Title">Brian Newsom</cite></footer>-->
-    <!--</blockquote>-->
-    <!--</div>-->
-    <!--</div>-->
-    <!--</div>-->
-    <!--</div>-->
-    <!--</div>-->
-    <!--</section>-->
-
 
     <?php include('footer.php'); ?>
     <?php include('includes.php'); ?>
