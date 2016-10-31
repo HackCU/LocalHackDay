@@ -699,6 +699,24 @@
                             </div>
                         </div>
 
+			<!--Cathal Killeen-->
+                        <div class="col-md-2">
+                            <div class="team-container wow bounceIn" data-wow-delay="0.8s">
+                                <div class="team-item">
+                                    <div class="team-triangle">
+                                        <div class="content">
+                                            <img src="img/organizers/cathal.jpg" alt="Cathal Killeen"/>
+                                            <div class="team-hover text-center">
+                                                <i class="fa fa-gears"></i>
+                                                <a href="http://cathalkilleen.com/" target="_blank">
+                                                    <p>Cathal Killeen</p></a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
