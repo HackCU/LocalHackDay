@@ -1,0 +1,66 @@
+.navbar-default,
+.navbar-default.navbar-fixed-top.navbar-shrink,
+.navbar-collapse {
+  background-color: #315b7f;
+}
+
+a, a:hover, a:focus {
+  color: #315b7f;
+}
+
+.rotate-box-1.square-icon .rotate-box-icon,
+.rotate-box-2.square-icon .rotate-box-icon {
+  background-color: #315b7f;
+}
+
+.footer-top {
+  background-color: #586d7f;
+}
+
+.team-hover {
+  background-color: rgba(179, 216, 242, .8);
+}
+
+.testimonial .cover,
+.counter-up .cover {
+  background-color:rgba(117, 178, 225, .6);
+}
+
+.navbar-default.navbar-fixed-top.navbar-shrink .navbar-nav > li > a,
+.navbar-default .navbar-nav > li > a {
+  color:rgba(117, 178, 225, .6);
+}
+
+.btn.btn-blank {
+  border-color: #315b7f;
+  color: #315b7f;
+}
+
+.btn.btn-blank:hover {
+  color: #fff !important;
+}
+
+.btn-blank:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background:#315b7f;
+  -webkit-transform: scaleY(0);
+  transform: scaleY(0);
+  -webkit-transform-origin: 50% 100%;
+  transform-origin: 50% 100%;
+  -webkit-transition-property: transform;
+  transition-property: transform;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+
+section#text-carousel-intro-section {
+  background-image: url('/img/winter.png') !important;
+}

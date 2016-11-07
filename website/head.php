@@ -44,6 +44,7 @@
         
         <!-- Skin CSS -->
         <link rel="stylesheet" href="css/skin/summer-orange.css">
+        <link rel="stylesheet" href="css/skin/winter.css">
         <!--<link rel="stylesheet" href="css/skin/cool-gray.css">-->
         <!--<link rel="stylesheet" href="css/skin/custom.css">-->
         
