@@ -421,7 +421,7 @@
                         </div>
                         <div class="col-lg-6 mar">
                             <a href="http://atlas.colorado.edu/" target="_blank">
-                                <img src="img/partners/atlas.jpg">
+                                <img src="img/partners/atlas.png">
                             </a>
                         </div>
                     </div>
