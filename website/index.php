@@ -414,14 +414,19 @@
 
                     </div>
                     <div class="row">
-                        <div class="col-lg-6 mar">
+                        <div class="col-lg-4 mar">
                             <a href="https://www.soylent.com/" target="_blank">
                                 <img src="img/partners/soylent-logo.png">
                             </a>
                         </div>
-                        <div class="col-lg-6 mar">
+                        <div class="col-lg-4 mar">
                             <a href="http://atlas.colorado.edu/" target="_blank">
                                 <img src="img/partners/atlas.png">
+                            </a>
+                        </div>
+                        <div class="col-lg-4 mar">
+                            <a href="http://www.colorado.edu/engineering/home-page" target="_blank">
+                                <img src="img/partners/engineering.png">
                             </a>
                         </div>
                     </div>
