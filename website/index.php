@@ -198,7 +198,7 @@
                                 <div class="devider"></div>
                                 <a class="btn btn-blank" href="https://localhackday.mlh.io/find-an-event/"
                                    target="_blank" role="button">Register!</a>
-                                <p style="font-size: large;">Stay tuned for our other event, <a target="_blank" href="https://2017.hackcu.org/">HackCU 2017!</a></p>
+                                <p style="font-size: large;">Stay tuned for our other event, HackCU 2017!</p>
                             </div>
                         </div>
                     </div>
