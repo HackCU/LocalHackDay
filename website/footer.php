@@ -9,6 +9,7 @@
                             <li><a target="_blank" href="https://static.mlh.io/docs/mlh-code-of-conduct.pdf">Code of
                                     Conduct</a></li>
                             <li><a href="https://localhackday.mlh.io/find-an-event/">Apply</a></li>
+                            <li><a target="_blank" href="mailto:contact@hackcu.org">Email Us</a></li>
                         </ul>
                     </div>
                 </div>
@@ -26,14 +27,14 @@
                                class="blue rotate-box-1 square-icon text-center wow zoomIn"
                                data-wow-delay="0.6s"><span class="rotate-box-icon"><i
                                         class="fa fa-instagram"></i></span></a></li>
-
                     </ul>
                 </div>
                 <div class="col-sm-4 col-md-4 text-right">
                    
                     <ul class="imp-links">
-                        <li><a target="_blank" href="mailto:contact@hackcu.org">Email Us</a></li>
-                        <li><a href="https://2016.hackcu.org/">HackCU Fall 2016</a></li>
+                        <li><a target="_blank" href="https://2017.hackcu.org/">HackCU Spring 2017</a></li>
+                        <li><a target="_blank" href="https://startups2students.hackcu.org/">Startups2Students</a></li>
+                        <li><a target="_blank" href="https://2016.hackcu.org/">HackCU Fall 2016</a></li>
                     </ul>
                     
                 </div>
