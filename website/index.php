@@ -237,7 +237,7 @@
                         </tr>
                         <tr>
                             <td>8:45am</td>
-                            <td>Hardware Checkout/Team formation</td>
+                            <td>Team formation</td>
                         </tr>
                         <tr>
                             <td>9:00am</td>
