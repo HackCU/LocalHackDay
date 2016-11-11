@@ -25,8 +25,8 @@
                     <li><a class="page-scroll" href="#about-section">About</a></li>
                     <li><a class="page-scroll" href="#apply-section">Apply</a></li>
                     <li><a class="page-scroll" href="#schedule-section">Schedule</a></li>
-                    <!--<li><a class="page-scroll" href="#portfolio-section">Works</a></li>-->
                     <li><a class="page-scroll" href="#sponsors-section">Sponsors</a></li>
+                    <li><a class="page-scroll" href="#volunteer-section">Volunteer</a></li>
                 </ul>
             </div>
         </div>

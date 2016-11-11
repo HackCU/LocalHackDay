@@ -444,6 +444,30 @@
     </section>
 
 
+    <!-- VOLUNTEER/MENTOR SECTION -->
+    <section id="volunteer-section">
+        <div id="" class="testimonial text-white parallax" data-stellar-background-ratio="0.5"
+             style="background-image: url(img/smallcover.jpg);">
+            <div class="cover"></div>
+
+            <div class="page-header-wrapper">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
+                                <h2>Volunteer or Mentor for Local Hack Day</h2>
+                                <div class="devider"></div>
+                                <p style="font-size: large;">Email us at Contact@HackCU.org to volunteer or mentor!</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
     <!--TEAM SECTION-->
     <section id="team-section">
         <div class="page">
