@@ -87,7 +87,7 @@
                         <span class="rotate-box-icon"><i class=""></i></span>
                         <div class="rotate-box-info">
                             <h4>What should I bring?</h4>
-                            <p>Laptop, chargers, power strip, and a water bottle.</p>
+                            <p>Laptop, chargers, comfortable clothes, and a water bottle.</p>
                         </div>
                         <!--</a>-->
                     </div>
@@ -126,7 +126,7 @@
                             <h4>What about teams?</h4>
                             <p>Don't have a team? We've got you covered. There will be time before hacking begins
                                 for hackers to get together and form teams. You can have a maximum of 4 members on your
-                                team.</p>
+                                team. Join our community <a href="https://www.facebook.com/groups/hackcu/" target="_blank">Facebook Group</a> to find a team!</p>
                         </div>
                         <!--</a>-->
                     </div>
@@ -136,7 +136,7 @@
                         <span class="rotate-box-icon"><i class=""></i></span>
                         <div class="rotate-box-info">
                             <h4>How can I help?</h4>
-                            <p>We always need more volunteers and mentors! <a href="mailto:contact@hackcu.org">Email
+                            <p>We always need volunteers and mentors! <a href="mailto:contact@hackcu.org">Email
                                     us</a> for more info.</p>
                         </div>
                         <!--</a>-->
