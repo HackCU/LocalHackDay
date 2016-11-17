@@ -389,34 +389,21 @@
                     <h2>Our Partners</h2>
                     <div class="devider"></div>
                     <div class="row">
-                        <div class="col-lg-12">
+                        <div class="col-lg-6 mar">
                             <a href="http://sparkboulder.com/" target="_blank">
                                 <img src="img/partners/spark.png">
                             </a>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-4">
+                        <div class="col-lg-6 mar">
                             <a href="https://mlh.io/" target="_blank">
                                 <img src="img/partners/mlh-logo.png">
                             </a>
                         </div>
-                        <div class="col-lg-4">
-                            <a href="http://www.kindsnacks.com/" target="_blank">
-                                <img src="img/partners/kind.png">
-                            </a>
-                        </div>
-                        <div class="col-lg-4">
-                            <a href="http://www.colorado.edu/business/" target="_blank">
-                                <img src="img/partners/leeds.png">
-                            </a>
-                        </div>
-
                     </div>
                     <div class="row">
                         <div class="col-lg-4 mar">
-                            <a href="https://www.soylent.com/" target="_blank">
-                                <img src="img/partners/soylent-logo.png">
+                            <a href="http://www.colorado.edu/business/" target="_blank">
+                                <img src="img/partners/leeds.png">
                             </a>
                         </div>
                         <div class="col-lg-4 mar">
@@ -430,7 +417,24 @@
                             </a>
                         </div>
                     </div>
-                </div>
+ 		    <div class="row">
+                        <div class="col-lg-4 mar">
+                            <a href="http://www.kindsnacks.com/" target="_blank">
+                                <img src="img/partners/kind.png">
+                            </a>
+                        </div>
+                        <div class="col-lg-4 mar">
+                            <a href="https://www.soylent.com/" target="_blank">
+                                <img src="img/partners/soylent-logo.png">
+                            </a>
+                        </div>
+                        <div class="col-lg-4 mar">
+                            <a href="http://lunchboxelectronics.com/" target="_blank">
+                                <img src="img/partners/lunchbox-electronics.png">
+                            </a>
+                        </div>
+                    </div>
+               </div>
             </div>
             <!-- End page header-->
             <div class="container">
