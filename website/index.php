@@ -375,7 +375,7 @@
                     </div>
                     <div class="row">
                         <div class="col-lg-6">
-                            <a href="ca.com" target="_blank">
+                            <a href="http://www.ca.com/us.html" target="_blank">
                                 <img src="img/sponsors/catechnologies.png">
                             </a>
                         </div>
