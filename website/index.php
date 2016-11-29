@@ -374,6 +374,18 @@
                         </div>
                     </div>
                     <div class="row">
+                        <div class="col-lg-6">
+                            <a href="ca.com" target="_blank">
+                                <img src="img/sponsors/catechnologies.png">
+                            </a>
+                        </div>
+                        <div class="col-lg-6">
+                            <a href="https://www.travelport.com/" target="_blank">
+                                <img src="img/sponsors/travelport.png">
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row">
                         <div class="col-lg-12">
                             <a href="https://www.flytedesk.com/" target="_blank">
                               <img src="img/sponsors/flytedesk.png">
