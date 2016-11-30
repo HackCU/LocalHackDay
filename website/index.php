@@ -265,7 +265,7 @@
                         </tr>
                         <tr>
                             <td>9:15pm</td>
-                            <td>Project Expo and Closing Ceremonies</td>
+                            <td>Closing Ceremonies</td>
                         </tr>
                         </tbody>
                     </table>
