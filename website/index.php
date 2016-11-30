@@ -77,7 +77,7 @@
                         <span class="rotate-box-icon"><i class=""></i></span>
                         <div class="rotate-box-info">
                             <h4>Who can apply?</h4>
-                            <p>Any current college student who is 18+ by the event date.</p>
+                            <p>Any current student!</p>
                         </div>
                         <!--</a>-->
                     </div>
