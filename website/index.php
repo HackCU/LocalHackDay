@@ -126,7 +126,8 @@
                             <h4>What about teams?</h4>
                             <p>Don't have a team? We've got you covered. There will be time before hacking begins
                                 for hackers to get together and form teams. You can have a maximum of 4 members on your
-                                team. Join our community <a href="https://www.facebook.com/groups/hackcu/" target="_blank">Facebook Group</a> to find a team!</p>
+                                team. Join our community <a href="https://www.facebook.com/groups/hackcu/"
+                                                            target="_blank">Facebook Group</a> to find a team!</p>
                         </div>
                         <!--</a>-->
                     </div>
@@ -148,8 +149,8 @@
                         <div class="rotate-box-info">
                             <h4>Need to contact us?</h4>
                             <p>Shoot us a message on <a href="https://www.facebook.com/letsHackCU/"> Facebook</a> or <a
-                                    href="https://twitter.com/HackCU">Twitter</a>, or <a
-                                    href="mailto:contact@hackcu.org">Email us</a>!</p>
+                                        href="https://twitter.com/HackCU">Twitter</a>, or <a
+                                        href="mailto:contact@hackcu.org">Email us</a>!</p>
                         </div>
                         <!--</a>-->
                     </div>
@@ -167,7 +168,7 @@
                     <li><a target="_blank" href="https://www.facebook.com/letsHackCU/"
                            class="rotate-box-1 square-icon text-center wow zoomIn"
                            data-wow-delay="0.3s"><span class="rotate-box-icon"><i
-                                    class="fa fa-facebook"></i></span></a></li>
+                                        class="fa fa-facebook"></i></span></a></li>
                     <li><a target="_blank" href="https://twitter.com/HackCU"
                            class="rotate-box-1 square-icon text-center wow zoomIn"
                            data-wow-delay="0.4s"><span class="rotate-box-icon"><i class="fa fa-twitter"></i></span></a>
@@ -175,7 +176,7 @@
                     <li><a target="_blank" href="https://www.instagram.com/hackcu/"
                            class="rotate-box-1 square-icon text-center wow zoomIn"
                            data-wow-delay="0.6s"><span class="rotate-box-icon"><i
-                                    class="fa fa-instagram"></i></span></a></li>
+                                        class="fa fa-instagram"></i></span></a></li>
 
                 </ul>
             </div>
@@ -349,61 +350,68 @@
                     <h2>Our Sponsors</h2>
                     <div class="devider"></div>
                     <!--<p class="subtitle">Coming Soon.</p>-->
+
                     <div class="row">
                         <div class="col-lg-6">
                             <a href="https://logrhythm.com/" target="_blank">
                                 <img src="img/sponsors/logrhythm.png">
                             </a>
                         </div>
+
                         <div class="col-lg-6">
-                            <a href="https://twitter.com/" target="_blank">
-                                <img src="img/sponsors/twitter.png">
+                            <a href="http://www.zayo.com/" target="_blank">
+                                <img src="img/sponsors/zayo.png">
                             </a>
                         </div>
                     </div>
+
+
                     <div class="row">
-			<div class="col-lg-6">
-                            <a href="https://www.sparkfun.com/" target="_blank">
-                                <img src="img/sponsors/sparkfun.png">
-                            </a>
-			</div>
-                        <div class="col-lg-6">
-                            <a href="http://www.keysight.com/" target="_blank">
-                                <img src="img/sponsors/keysight.png">
-                            </a>
-                        </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <a href="http://www.ca.com/us.html" target="_blank">
-                                <img src="img/sponsors/catechnologies.png">
-                            </a>
-                        </div>
-                        <div class="col-lg-6">
+                        <div class="col-lg-4">
                             <a href="https://www.travelport.com/" target="_blank">
                                 <img src="img/sponsors/travelport.png">
                             </a>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <a href="https://www.flytedesk.com/" target="_blank">
-                              <img src="img/sponsors/flytedesk.png">
+                        <div class="col-lg-4">
+                            <a href="http://www.keysight.com/" target="_blank">
+                                <img src="img/sponsors/keysight.png">
                             </a>
                         </div>
-                        <div class="col-lg-6">
+                        <div class="col-lg-4">
+                            <a href="https://twitter.com/" target="_blank">
+                             <img src="img/sponsors/twitter.png">
+                            </a>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-lg-12">
+                            <a href="http://www.ca.com/us.html" target="_blank">
+                                <img src="img/sponsors/catechnologies.png">
+                            </a>
+                        </div>
+                    </div>
+
+
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <a href="https://www.flytedesk.com/" target="_blank">
+                                <img src="img/sponsors/flytedesk.png">
+                            </a>
+                        </div>
+                        <div class="col-lg-4">
                             <a href="https://www.wowza.com/" target="_blank">
                                 <img src="img/sponsors/wowza.png">
                             </a>
                         </div>
-                    </div>
-                    <div class="row">
-                        <div class="col-lg-6">
-                            <a href="http://www.zayo.com/" target="_blank">
-                              <img src="img/sponsors/zayo.png">
+                        <div class="col-lg-4">
+                            <a href="https://www.sparkfun.com/" target="_blank">
+                                <img src="img/sponsors/sparkfun.png">
                             </a>
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
@@ -441,7 +449,7 @@
                             </a>
                         </div>
                     </div>
- 		    <div class="row">
+                    <div class="row">
                         <div class="col-lg-4 mar">
                             <a href="http://www.kindsnacks.com/" target="_blank">
                                 <img src="img/partners/kind.png">
@@ -458,7 +466,7 @@
                             </a>
                         </div>
                     </div>
-               </div>
+                </div>
             </div>
             <!-- End page header-->
             <div class="container">
@@ -493,7 +501,6 @@
             </div>
         </div>
     </section>
-
 
 
     <!--TEAM SECTION-->
@@ -734,7 +741,8 @@
                                             <img src="img/organizers/muhammad.jpg" alt="Muhammad Khan"/>
                                             <div class="team-hover text-center">
                                                 <i class="fa fa-gears"></i>
-                                                <a href="https://www.linkedin.com/in/muhammadmuneebullahkhan" target="_blank">
+                                                <a href="https://www.linkedin.com/in/muhammadmuneebullahkhan"
+                                                   target="_blank">
                                                     <p>Muhammad Khan</p></a>
                                             </div>
                                         </div>
@@ -761,7 +769,7 @@
                             </div>
                         </div>
 
-			<!--Cathal Killeen-->
+                        <!--Cathal Killeen-->
                         <div class="col-md-2">
                             <div class="team-container wow bounceIn" data-wow-delay="0.8s">
                                 <div class="team-item">
