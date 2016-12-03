@@ -27,6 +27,7 @@
                     <h1 class="wow fadeInUp" data-wow-delay="0.1s">HackCU</h1>
                     <h2 class="wow fadeInUp" data-wow-delay="0.3s">Local Hack Day</h2>
                     <h2 class="wow fadeInUp" data-wow-delay="0.5s">Dec. 3, 2016</h2>
+			<h2 class="wow fadeInUp" data-wow-delay="0.7s">Idea Forge, Fleming Law"</h2>
                     <center><a class="btn btn-lg btn-blank wow fadeInUp" data-wow-delay="0.7s"
                                href="https://localhackday.mlh.io/find-an-event/" target="_blank"
                                role="button">Register!</a></center>
