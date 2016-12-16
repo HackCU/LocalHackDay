@@ -15,7 +15,7 @@
                 </div>
                 <div class="col-sm-4 col-md-4">
                     <ul class="social-list blue">
-                        <li><a target="_blank" href="https://www.facebook.com/letsHackCU/"
+                        <li><a target="_blank" href="https://www.facebook.com/hackcu"
                                class="blue rotate-box-1 square-icon text-center"
                                data-wow-delay="0.3s"><span class="rotate-box-icon"><i
                                         class="fa fa-facebook"></i></span></a></li>
