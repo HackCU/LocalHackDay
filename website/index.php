@@ -149,7 +149,7 @@
                         <span class="rotate-box-icon"><i class=""></i></span>
                         <div class="rotate-box-info">
                             <h4>Need to contact us?</h4>
-                            <p>Shoot us a message on <a href="https://www.facebook.com/letsHackCU/"> Facebook</a> or <a
+                            <p>Shoot us a message on <a href="https://www.facebook.com/hackcu"> Facebook</a> or <a
                                         href="https://twitter.com/HackCU">Twitter</a>, or <a
                                         href="mailto:contact@hackcu.org">Email us</a>!</p>
                         </div>
@@ -166,7 +166,7 @@
         <div class="col-sm-12 col-md-12">
             <div class="container">
                 <ul class="social-list">
-                    <li><a target="_blank" href="https://www.facebook.com/letsHackCU/"
+                    <li><a target="_blank" href="https://www.facebook.com/hackcu/"
                            class="rotate-box-1 square-icon text-center wow zoomIn"
                            data-wow-delay="0.3s"><span class="rotate-box-icon"><i
                                         class="fa fa-facebook"></i></span></a></li>
