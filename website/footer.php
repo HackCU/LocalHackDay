@@ -30,13 +30,13 @@
                     </ul>
                 </div>
                 <div class="col-sm-4 col-md-4 text-right">
-                   
+
                     <ul class="imp-links">
-                        <li><a target="_blank" href="https://2017.hackcu.org/">HackCU Spring 2017</a></li>
+                        <li><a target="_blank" href="https://2017.hackcu.org/">HackCU III</a></li>
                         <li><a target="_blank" href="https://startups2students.hackcu.org/">Startups2Students</a></li>
                         <li><a target="_blank" href="https://2016.hackcu.org/">HackCU Fall 2016</a></li>
                     </ul>
-                    
+
                 </div>
             </div>
         </div>
