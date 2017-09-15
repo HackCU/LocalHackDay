@@ -26,13 +26,11 @@
                     <!--<img class="logo" src="img/logo/sitelogo.png" alt="HackCU logo"/>-->
                     <h1 class="wow fadeInUp" data-wow-delay="0.1s">HackCU</h1>
                     <h2 class="wow fadeInUp" data-wow-delay="0.3s">Local Hack Day</h2>
-                    <h2 class="wow fadeInUp" data-wow-delay="0.5s">Took place on Dec. 3, 2016</h2>
+                    <h2 class="wow fadeInUp" data-wow-delay="0.5s">Saturday December 2, 2017</h2>
 			<h2 class="wow fadeInUp" data-wow-delay="0.7s">Idea Forge, Fleming Law</h2>
                     <center><a class="btn btn-lg btn-blank wow fadeInUp" data-wow-delay="0.7s"
-                               href="https://hackcu.org/" target="_blank"
-                               role="button">HackCU III</a></center>
+                               role="button" disabled>Registrations Opening Soon</a></center>
                     <div class="extra-space-l"></div>
-                    <!--<a class="btn btn-blank page-scroll" href="#about-section" role="button"><i class="fa fa-arrow-down"></i></a>-->
                 </div>
             </div>
         </div>
@@ -45,15 +43,9 @@
                 <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
                     <h2>About HackCU</h2>
                     <div class="devider"></div>
-                    <p class="subtitle">HackCU hosted Local Hack Day on December 3rd, 2016 at the
+                    <p class="subtitle">This year, HackCU will host Local Hack Day on December 2nd, 2017 at the
                         University of Colorado, Boulder! Local Hack Day is a worldwide event aimed at bringing students
                         local to your area together for just 12 hours of building anything you set your mind to.<br><br>
-                    </p>
-                    <h3>Some fun facts!</h3>
-                    <p class="subtitle">
-                        With nearly 200 hackers, we were the largest out of the 160 Local Hack Day events around the world!<br>
-                        One of the teams from our event won the fastest time in the RedBull Mind Gamers challenge in the country!<br><br>
-                        Thank you for all the awesome hacking. Now, go and register for our next event in April, <a href="https://hackcu.org/">HackCU III</a>
                     </p>
                 </div>
             </div>
@@ -100,8 +92,8 @@
                         <!--<a href="#" class="rotate-box-1 square-icon wow zoomIn" data-wow-delay="0.6s">-->
                         <span class="rotate-box-icon"><i class=""></i></span>
                         <div class="rotate-box-info">
-                            <h4>Did you offer travel reimbursement?</h4>
-                            <p>We did not offer travel reimbursement for Local Hack Day as everyone attending
+                            <h4>Do you offer travel reimbursement?</h4>
+                            <p>We do not offer travel reimbursement for Local Hack Day as everyone attending
                                 should be local!</p>
                         </div>
                         <!--</a>-->
@@ -118,7 +110,7 @@
                         <span class="rotate-box-icon"><i class=""></i></span>
                         <div class="rotate-box-info">
                             <h4>Was there be food?</h4>
-                            <p>Yes, lots! We provided three main meals as well as snacks, drinks, and caffeine.</p>
+                            <p>Yes, lots! We will provide three main meals as well as snacks, drinks, and caffeine.</p>
                         </div>
                         <!--</a>-->
                     </div>
@@ -199,13 +191,9 @@
                     <div class="row">
                         <div class="col-lg-12">
                             <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-                                <h2>Registrations for Local Hack Day are closed</h2>
+                                <h2>Registrations for Local Hack Day will open soon!</h2>
                                 <div class="devider"></div>
-                                <p style="font-size: large;">Local Hack Day is already over <br>
-                                  Applications for HackCU III are now open!</p>
-                                <a class="btn btn-blank" href="https://hackcu.org/"
-                                   target="_blank" role="button">HackCU III</a>
-                                <p style="font-size: large;">What are you waiting for? Go and register for HackCU III now</p>
+                                <a class="btn btn-blank" href="https://hackcu.org/" target="_blank" role="button">Sign up here to be notified</a>
                             </div>
                         </div>
                     </div>
@@ -226,6 +214,7 @@
                 </div>
             </div>
         </div>
+        <h3 style="text-align: center;">December 2nd, 2017</h3><br><br><br>
 
         <div class="container">
             <div class="row">
@@ -292,7 +281,7 @@
             <div class="page-header-wrapper">
                 <div class="container">
                     <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-                        <h2>Our Goals for Local Hack Day 2016</h2>
+                        <h2>Our Goals for Local Hack Day 2017</h2>
                         <div class="devider"></div>
                         <!--<p class="subtitle">Before anyone is not told</p>-->
                     </div>
@@ -353,7 +342,7 @@
         <div class="page-header-wrapper">
             <div class="container">
                 <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-                    <h2>Our Sponsors</h2>
+                    <h2>Our Past Sponsors</h2>
                     <div class="devider"></div>
                     <!--<p class="subtitle">Coming Soon.</p>-->
 
@@ -424,7 +413,7 @@
         <div class="page-header-wrapper">
             <div class="container" id="partners-section">
                 <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-                    <h2>Our Partners</h2>
+                    <h2>Our Past Partners</h2>
                     <div class="devider"></div>
                     <div class="row">
                         <div class="col-lg-6 mar">
@@ -485,7 +474,6 @@
             </div>
     </section>
 
-
     <!-- VOLUNTEER/MENTOR SECTION -->
     <section id="volunteer-section">
         <div id="" class="testimonial text-white parallax" data-stellar-background-ratio="0.5"
@@ -502,309 +490,6 @@
                                 <p style="font-size: large;">Email us at Contact@HackCU.org to volunteer or mentor!</p>
                             </div>
                         </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
-
-
-    <!--TEAM SECTION-->
-    <section id="team-section">
-        <div class="page">
-            <div class="page-header-wrapper">
-                <div class="container">
-                    <div class="page-header text-center wow fadeInDown" data-wow-delay="0.4s">
-                        <h2>Our Team</h2>
-                        <div class="devider"></div>
-                    </div>
-                </div>
-            </div>
-            <div class="container">
-                <div class="row">
-                    <div class="team-items">
-
-                        <!--ALEX WALLING-->
-                        <div class="col-md-2">
-                            <div class="team-container wow bounceIn" data-wow-delay="0.2s">
-                                <div class="team-item">
-                                    <div class="team-triangle">
-                                        <div class="content">
-                                            <img src="img/organizers/alexw.jpg" alt="Alex Walling"/>
-                                            <div class="team-hover text-center">
-                                                <i class="fa fa-gears"></i>
-                                                <a href="http://alexwalling.com/" target="_blank"><p>Alex Walling</p>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--JESSIE ALBARIAN-->
-                        <div class="col-md-2">
-                            <div class="team-container wow bounceIn" data-wow-delay="0.3s">
-                                <div class="team-item">
-                                    <div class="team-triangle">
-                                        <div class="content">
-                                            <img src="img/organizers/jessie.jpg" alt="Jessie Albarian"/>
-                                            <div class="team-hover text-center">
-                                                <i class="fa fa-gears"></i>
-                                                <a href="http://jessiealbarian.com/" target="_blank"><p>Jessie
-                                                        Albarian</p></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--ALEX LUO-->
-                        <div class="col-md-2">
-                            <div class="team-container wow bounceIn" data-wow-delay="0.5s">
-                                <div class="team-item">
-                                    <div class="team-triangle">
-                                        <div class="content">
-                                            <img src="img/organizers/luo.jpg" alt="Alex Luo"/>
-                                            <div class="team-hover text-center">
-                                                <i class="fa fa-gears"></i>
-                                                <a href="https://github.com/Alex-Luo" target="_blank"><p>Alex Luo</p>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Conor Parrish-->
-                        <div class="col-md-2">
-                            <div class="team-container wow bounceIn" data-wow-delay="0.8s">
-                                <div class="team-item">
-                                    <div class="team-triangle">
-                                        <div class="content">
-                                            <img src="img/organizers/conor.jpg" alt="Conor Parrish"/>
-                                            <div class="team-hover text-center">
-                                                <i class="fa fa-gears"></i>
-                                                <a href="https://github.com/conorjp" target="_blank"><p>Conor
-                                                        Parrish</p></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--DREW CASNER-->
-                        <div class="col-md-2">
-                            <div class="team-container wow bounceIn" data-wow-delay="0.5s">
-                                <div class="team-item">
-                                    <div class="team-triangle">
-                                        <div class="content">
-                                            <img src="img/organizers/casner.jpg" alt="Drew Casner"/>
-                                            <div class="team-hover text-center">
-                                                <i class="fa fa-gears"></i>
-                                                <a href="https://github.com/Andrew-Casner" target="_blank"><p>Drew
-                                                        Casner</p></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--MICHAEL SWISHER-->
-                        <div class="col-md-2">
-                            <div class="team-container wow bounceIn" data-wow-delay="0.4s">
-                                <div class="team-item">
-                                    <div class="team-triangle">
-                                        <div class="content">
-                                            <img src="img/organizers/swisher.jpg" alt="Michael Swisher"/>
-                                            <div class="team-hover text-center">
-                                                <i class="fa fa-gears"></i>
-                                                <a href="https://github.com/misw9423" target="_blank"><p>Michael
-                                                        Swisher</p></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Spencer Hanson-->
-                        <div class="col-md-2">
-                            <div class="team-container wow bounceIn" data-wow-delay="0.6s">
-                                <div class="team-item">
-                                    <div class="team-triangle">
-                                        <div class="content">
-                                            <img src="img/organizers/hanson.jpg" alt="Spencer Hanson"/>
-                                            <div class="team-hover text-center">
-                                                <i class="fa fa-gears"></i>
-                                                <p>Spencer Hanson</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Carl Cortright-->
-                        <div class="col-md-2">
-                            <div class="team-container wow bounceIn" data-wow-delay="0.8s">
-                                <div class="team-item">
-                                    <div class="team-triangle">
-                                        <div class="content">
-                                            <img src="img/organizers/carl.jpg" alt="Carl Cortright"/>
-                                            <div class="team-hover text-center">
-                                                <i class="fa fa-gears"></i>
-                                                <a href="http://carlcortright.me/" target="_blank"><p>Carl Cortright</p>
-                                                </a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Michael Sihavong-->
-                        <div class="col-md-2">
-                            <div class="team-container wow bounceIn" data-wow-delay="0.8s">
-                                <div class="team-item">
-                                    <div class="team-triangle">
-                                        <div class="content">
-                                            <img src="img/organizers/michael.jpg" alt="Michael Sihavong"/>
-                                            <div class="team-hover text-center">
-                                                <i class="fa fa-gears"></i>
-                                                <a href="https://www.linkedin.com/in/msihavong" target="_blank"><p>
-                                                        Michael Sihavong</p></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Krish Dholakiya-->
-                        <div class="col-md-2">
-                            <div class="team-container wow bounceIn" data-wow-delay="0.8s">
-                                <div class="team-item">
-                                    <div class="team-triangle">
-                                        <div class="content">
-                                            <img src="img/organizers/krish.jpg" alt="Krish Dholakiya"/>
-                                            <div class="team-hover text-center">
-                                                <i class="fa fa-gears"></i>
-                                                <a href="http://itskrish.co" target="_blank"><p>Krish Dholakiya</p></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Shubha Swamy-->
-                        <div class="col-md-2">
-                            <div class="team-container wow bounceIn" data-wow-delay="0.8s">
-                                <div class="team-item">
-                                    <div class="team-triangle">
-                                        <div class="content">
-                                            <img src="img/organizers/shubha.jpg" alt="Shubha Swamy"/>
-                                            <div class="team-hover text-center">
-                                                <i class="fa fa-gears"></i>
-                                                <a href="https://shubhaswamy.github.io/" target="_blank"><p>Shubha
-                                                        Swamy</p></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Will Dickinson-->
-                        <div class="col-md-2">
-                            <div class="team-container wow bounceIn" data-wow-delay="0.8s">
-                                <div class="team-item">
-                                    <div class="team-triangle">
-                                        <div class="content">
-                                            <img src="img/organizers/will.jpg" alt="Will Dickinson"/>
-                                            <div class="team-hover text-center">
-                                                <i class="fa fa-gears"></i>
-                                                <a href="https://www.linkedin.com/in/williamjdickinson" target="_blank">
-                                                    <p>Will Dickinson</p></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Muhammad Khan-->
-                        <div class="col-md-2">
-                            <div class="team-container wow bounceIn" data-wow-delay="0.8s">
-                                <div class="team-item">
-                                    <div class="team-triangle">
-                                        <div class="content">
-                                            <img src="img/organizers/muhammad.jpg" alt="Muhammad Khan"/>
-                                            <div class="team-hover text-center">
-                                                <i class="fa fa-gears"></i>
-                                                <a href="https://www.linkedin.com/in/muhammadmuneebullahkhan"
-                                                   target="_blank">
-                                                    <p>Muhammad Khan</p></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Apara Venkateswaran-->
-                        <div class="col-md-2">
-                            <div class="team-container wow bounceIn" data-wow-delay="0.8s">
-                                <div class="team-item">
-                                    <div class="team-triangle">
-                                        <div class="content">
-                                            <img src="img/organizers/apara.jpg" alt="Apara Venkateswaran"/>
-                                            <div class="team-hover text-center">
-                                                <i class="fa fa-gears"></i>
-                                                <a href="https://traxex33.github.io/" target="_blank">
-                                                    <p>Apara Venkateswaran</p></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <!--Cathal Killeen-->
-                        <div class="col-md-2">
-                            <div class="team-container wow bounceIn" data-wow-delay="0.8s">
-                                <div class="team-item">
-                                    <div class="team-triangle">
-                                        <div class="content">
-                                            <img src="img/organizers/cathal.jpg" alt="Cathal Killeen"/>
-                                            <div class="team-hover text-center">
-                                                <i class="fa fa-gears"></i>
-                                                <a href="http://cathalkilleen.com/" target="_blank">
-                                                    <p>Cathal Killeen</p></a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            </div>
-            <div class="clearfix"></div>
-
-            <!--======== APPLY TO BE AN ORGANIZER ========-->
-            <div class="container" style="margin-top: 10em; margin-bottom: 8em;">
-                <div class="row">
-                    <div class="text-center col-lg-12">
-                        <p class="subtitle" style="margin-bottom: 3em;">Want to be a part of the HackCU organizing or
-                            volunteer team? We need you!</p>
-                        <a class="btn btn-blank" href="https://join.hackcu.org" role="button">Apply for our Team!</a>
                     </div>
                 </div>
             </div>
