@@ -2,19 +2,19 @@
 
         <meta charset="utf-8">
         <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
-        <title>HackCU</title>
+        <title>Local Hack Day | December 2nd 2017 </title>
         <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
         <link rel="icon" href="img/favicon.ico" type="image/x-icon">
 
 
-        <meta property="og:title" content="Local Hack Day 2016"/>
+        <meta property="og:title" content="Local Hack Day 2017"/>
         <meta property="og:image" content="/img/screen.gif" />
-        <meta property="og:url" content="HackCU.org"/>
+        <meta property="og:url" content="local.hackcu.org"/>
         <meta name="twitter:image" content="/img/screen.gif"/>
 
 
         <meta name="description"
-              content="Join HackCU for Local Hack Day Dec. 3, 2016 at the University of Colorado Boulder.">
+              content="Join HackCU for Local Hack Day Dec. 2, 2017 at the University of Colorado Boulder.">
         <meta name="keywords"
               content="Hackathon, HackCU, Boulder, Colorado, CU, University"/>
         <meta name="author" content="HackCU">
@@ -40,14 +40,14 @@
         <link rel="stylesheet" href="css/style.css">
         <link rel="stylesheet" href="css/mobile.css">
         <link rel="stylesheet" href="css/form.css">
-        
-        
+
+
         <!-- Skin CSS -->
         <link rel="stylesheet" href="css/skin/summer-orange.css">
         <link rel="stylesheet" href="css/skin/winter.css">
         <!--<link rel="stylesheet" href="css/skin/cool-gray.css">-->
         <!--<link rel="stylesheet" href="css/skin/custom.css">-->
-        
+
         <!-- <link rel="stylesheet" href="css/skin/fresh-lime.css"> -->
         <!-- <link rel="stylesheet" href="css/skin/night-purple.css"> -->
 
