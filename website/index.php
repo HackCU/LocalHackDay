@@ -23,7 +23,6 @@
             <div class="caption text-center">
 
                 <div id="logo" class="logo">
-                    <!--<img class="logo" src="img/logo/sitelogo.png" alt="HackCU logo"/>-->
                     <h1>HackCU</h1>
                     <h2>Local Hack Day</h2>
                     <h2>Saturday December 2, 2017</h2>
