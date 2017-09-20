@@ -208,67 +208,74 @@
         <div class="page-header-wrapper">
             <div class="container">
                 <div class="page-header text-center wow fadeInUp" data-wow-delay="0.3s">
-                    <h2>Local Hack Day Schedule</h2>
+                    <h2>Event Schedule</h2>
                     <div class="devider"></div>
                     <p class="subtitle">Subject to change.</p>
                 </div>
             </div>
         </div>
-        <h3 style="text-align: center;">December 2nd, 2017</h3><br><br><br>
-
         <div class="container">
-            <div class="row">
-                <div class="col-lg-4">
-                </div>
-                <div class="col-lg-4">
-                    <table>
-                        <tbody>
+            <div class="col-md-6">
+                <table class="table lead table-hover text-center">
+                    <thead>
                         <tr>
-                            <td>8:00am</td>
-                            <td>Arrival and Check-in</td>
+                            <th class="text-center">Time</th>
+                            <th class="text-center">Event</th>
                         </tr>
+                    </thead>
+                    <tr>
+                        <td>08:00 am</td>
+                        <td>Arrival and Check-in</td>
+                    </tr>
+                    <tr>
+                        <td>08:30 am</td>
+                        <td>Opening Ceremonies</td>
+                    </tr>
+                    <tr>
+                        <td>08:45 am</td>
+                        <td>Team Formation</td>
+                    </tr>
+                    <tr>
+                        <td>09:00 am</td>
+                        <td>Hacking Begins!</td>
+                    </tr>
+                    <tr>
+                        <td>09:30 am</td>
+                        <td>Breakfast</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="col-md-6">
+                <table class="table lead table-hover text-center">
+                    <thead>
                         <tr>
-                            <td>8:30am</td>
-                            <td>Opening Ceremonies</td>
+                            <th class="text-center">Time</th>
+                            <th class="text-center">Event</th>
                         </tr>
-                        <tr>
-                            <td>8:45am</td>
-                            <td>Team formation</td>
-                        </tr>
-                        <tr>
-                            <td>9:00am</td>
-                            <td>Hacking Begins!</td>
-                        </tr>
-                        <tr>
-                            <td>9:30am</td>
-                            <td>Breakfast</td>
-                        </tr>
-                        <tr>
-                            <td>12:30pm</td>
-                            <td>Lunch</td>
-                        </tr>
-                        <tr>
-                            <td>6:00pm</td>
-                            <td>Dinner</td>
-                        </tr>
-                        <tr>
-                            <td>8:00pm</td>
-                            <td>Dessert</td>
-                        </tr>
-                        <tr>
-                            <td>9:00pm</td>
-                            <td>Hacking Ends</td>
-                        </tr>
-                        <tr>
-                            <td>9:15pm</td>
-                            <td>Closing Ceremonies</td>
-                        </tr>
-                        </tbody>
-                    </table>
-                </div>
+                    </thead>
+                    <tr>
+                        <td>12:30 pm</td>
+                        <td>Lunch</td>
+                    </tr>
+                    <tr>
+                        <td>06:00 pm</td>
+                        <td>Dinner</td>
+                    </tr>
+                    <tr>
+                        <td>08:00 pm</td>
+                        <td>Dessert Served</td>
+                    </tr>
+                    <tr>
+                        <td>09:00 pm</td>
+                        <td>Hacking Ends!</td>
+                    </tr>
+                    <tr>
+                        <td>09:15 pm</td>
+                        <td>Closing Ceremonies</td>
+                    </tr>
+                </table>
             </div>
         </div>
-
         <div class="extra-space-l"></div>
     </section>
 
