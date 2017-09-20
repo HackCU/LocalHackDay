@@ -45,11 +45,6 @@
         <!-- Skin CSS -->
         <link rel="stylesheet" href="css/skin/summer-orange.css">
         <link rel="stylesheet" href="css/skin/winter.css">
-        <!--<link rel="stylesheet" href="css/skin/cool-gray.css">-->
-        <!--<link rel="stylesheet" href="css/skin/custom.css">-->
-
-        <!-- <link rel="stylesheet" href="css/skin/fresh-lime.css"> -->
-        <!-- <link rel="stylesheet" href="css/skin/night-purple.css"> -->
 
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
