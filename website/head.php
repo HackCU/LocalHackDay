@@ -31,8 +31,6 @@
         <!-- Libs and Plugins CSS -->
         <link rel="stylesheet" href="inc/bootstrap/css/bootstrap.min.css">
         <link rel="stylesheet" href="inc/font-awesome/css/font-awesome.min.css"> <!-- Font Icons -->
-        <link rel="stylesheet" href="inc/owl-carousel/css/owl.carousel.css">
-        <link rel="stylesheet" href="inc/owl-carousel/css/owl.theme.css">
 
         <!-- Theme CSS -->
         <link rel="stylesheet" href="css/reset.css">
