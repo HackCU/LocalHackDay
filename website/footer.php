@@ -14,18 +14,21 @@
                 </div>
                 <div class="col-sm-4 col-md-4">
                     <ul class="social-list blue">
-                        <li><a target="_blank" href="https://www.facebook.com/hackcu"
-                               class="blue rotate-box-1 square-icon text-center"
-                               data-wow-delay="0.3s"><span class="rotate-box-icon"><i
-                                        class="fa fa-facebook"></i></span></a></li>
-                        <li><a target="_blank" href="https://twitter.com/HackCU"
-                               class="blue rotate-box-1 square-icon text-center wow zoomIn"
-                               data-wow-delay="0.4s"><span class="rotate-box-icon"><i class="fa fa-twitter"></i></span></a>
+                        <li>
+                            <a target="_blank" href="https://www.facebook.com/hackcu/" class="rotate-box-1 square-icon text-center">
+                                <span class="rotate-box-icon"><i class="fa fa-facebook"></i></span>
+                            </a>
                         </li>
-                        <li><a target="_blank" href="https://www.instagram.com/hackcu/"
-                               class="blue rotate-box-1 square-icon text-center wow zoomIn"
-                               data-wow-delay="0.6s"><span class="rotate-box-icon"><i
-                                        class="fa fa-instagram"></i></span></a></li>
+                        <li>
+                            <a target="_blank" href="https://twitter.com/HackCU" class="rotate-box-1 square-icon text-center">
+                               <span class="rotate-box-icon"><i class="fa fa-twitter"></i></span>
+                           </a>
+                        </li>
+                        <li>
+                            <a target="_blank" href="https://www.instagram.com/hackcu/" class="rotate-box-1 square-icon text-center">
+                               <span class="rotate-box-icon"><i class="fa fa-instagram"></i></span>
+                            </a>
+                        </li>
                     </ul>
                 </div>
                 <div class="col-sm-4 col-md-4 text-right">

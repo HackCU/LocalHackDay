@@ -3,7 +3,6 @@
 <script src="inc/bootstrap/js/bootstrap.min.js"></script>
 <script src="inc/owl-carousel/js/owl.carousel.min.js"></script>
 <script src="inc/stellar/js/jquery.stellar.min.js"></script>
-<script src="inc/animations/js/wow.min.js"></script>
 <script src="inc/waypoints.min.js"></script>
 <script src="inc/isotope.pkgd.min.js"></script>
 <script src="inc/classie.js"></script>
