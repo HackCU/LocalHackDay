@@ -5,7 +5,6 @@ Code for Local Hack Day websites.
 Must be run using a PHP server
 
 ```shell
-$ cd website/
 $ php -S 127.0.0.1:8000
 ```
 
