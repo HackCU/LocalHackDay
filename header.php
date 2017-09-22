@@ -1,10 +1,9 @@
-<!--========== BEGIN HEADER ==========-->
+<!-- Header for the webpage: goes into the body (index.php); Contains the navbar -->
+
 <header id="header" class="header-main">
 
     <!-- Begin Navbar -->
     <nav id="main-navbar" class="navbar navbar-default navbar-fixed-top" role="navigation">
-        <!-- Classes: navbar-default, navbar-inverse, navbar-fixed-top, navbar-fixed-bottom, navbar-transparent. Note: If you use non-transparent navbar, set "height: 98px;" to #header -->
-
         <div class="container">
 
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -29,7 +28,9 @@
                     <li><a class="page-scroll" href="#volunteer-section">Volunteer</a></li>
                 </ul>
             </div>
+
         </div>
     </nav>
+    <!-- End Nabar -->
+
 </header>
-<!-- ========= END HEADER =========-->

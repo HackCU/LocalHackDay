@@ -1,18 +1,12 @@
+<!-- Main Website - Body-->
+
 <!doctype html>
-<!--
-        Template:	 Unika - Responsive One Page HTML5 Template
-        Author:		 imransdesign.com
-        URL:		 http://imransdesign.com/
-    Designed By: https://www.behance.net/poljakova
-        Version:	1.0
--->
 <html lang="en-US">
 <?php include('head.php'); ?>
 <body data-spy="scroll" data-target="#main-navbar">
 <div class="body">
 
     <?php include('header.php'); ?>
-
 
     <section id="text-carousel-intro-section" style="background-image: url(img/maincover2b.gif);
     background-size: cover;

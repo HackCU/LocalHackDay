@@ -1,3 +1,5 @@
+<!-- Footer for the webpage: goes into body (index.php); contains links to past websites and social media -->
+
 <!-- Begin footer -->
 <footer class="text-off-white">
     <div class="footer-top">
