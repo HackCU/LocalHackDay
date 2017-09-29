@@ -6,13 +6,19 @@ Master Stylesheet
 	Author:		 imransdesign.com
 	URL:		 http://imransdesign.com/
     Designed By: https://www.behance.net/poljakova
-	Version:	1.0	
+	Version:	1.0
 
 ---------------------------------------------------------------------------------*/
 
+@font-face {
+    font-family: Biko;
+    src: url('../fonts/Biko_Regular.otf');
+    url('../fonts/Biko_Regular.otf'); /* IE */
+}
+
 html {
 	height: 100% !important;
-        background-color: #fff;
+    background-color: #fff;
 }
 body {
 	position: relative;
@@ -43,17 +49,17 @@ body .body {
 	-webkit-border-radius: 0 !important;
 	-moz-border-radius: 0 !important;
 }
-*:focus { 
+*:focus {
 	outline: none !important;
 	box-shadow: none !important;
 }
 
 /* Begin Fonts */
 body {
-	font-family: 'Roboto', Helvetica, Arial, sans-serif;
+	font-family: Biko;
 }
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Roboto', Helvetica, Arial, sans-serif;
+	font-family: Biko;
 	font-weight: 700;
 	margin-bottom: 10px;
 }
@@ -73,10 +79,10 @@ h5 {
 	font-size: 18px;
 }
 p {
-	font: 16px/2em "Roboto";
+	font: 16px/2em Biko;
 }
 .navbar-nav > li > a {
-	font-family: "Lato", Helvetica, Arial, sans-serif;
+	font-family: Biko, Helvetica, Arial, sans-serif;
 }
 /* End Fonts */
 
@@ -548,7 +554,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 	z-index: 5;
 	margin-bottom:30px;
 	overflow:hidden;
-	
+
 }
 .portfolio_single_content:hover img{
 	 -o-transform: scale(2);
@@ -657,7 +663,7 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 /* ===== Begin team ===== */
 .team-item {
 	height: 120px;
-}	
+}
 .team-item .team-triangle {
 	width: 120px;
 	height: 120px;
@@ -1163,4 +1169,3 @@ td {
         padding-left: 2em;
 }
 /* ===== End tables ===== */
-
