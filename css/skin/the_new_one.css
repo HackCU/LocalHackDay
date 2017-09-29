@@ -4,22 +4,6 @@
   background-color: #063651;
 }
 
-body:before {
-	position: fixed;
-	z-index: -1;
-	top: 0;
-	left: 0;
-	bottom: 0;
-	right: 0;
-	display: block;
-	background: #063651; /* For browsers that do not support gradients */
-	background: -webkit-linear-gradient(#020913 0%, #00121E 19%, #001F3A 28%, #063651 56%, #2B546B 71%, #827C6C 100%);
-	background: -o-linear-gradient(#020913 0%, #00121E 19%, #001F3A 28%, #063651 56%, #2B546B 71%, #827C6C 100%);
-	background: -moz-linear-gradient(#020913 0%, #00121E 19%, #001F3A 28%, #063651 56%, #2B546B 71%, #827C6C 100%);
-	background: linear-gradient(#020913 0%, #00121E 19%, #001F3A 28%, #063651 56%, #2B546B 71%, #827C6C 100%); /* Standard syntax */
-	content: "";
-}
-
 a, a:hover, a:focus {
   color: #315b7f;
 }
@@ -53,31 +37,11 @@ a, a:hover, a:focus {
 .btn.btn-blank {
   border-color: #ffffff;
   color: #ffffff;
+  background-color: rgba(6,54,81);
 }
 
 .btn.btn-blank:hover {
-  color: #fff !important;
-}
-
-.btn-blank:before {
-  content: "";
-  position: absolute;
-  z-index: -1;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background:#315b7f;
-  -webkit-transform: scaleY(0);
-  transform: scaleY(0);
-  -webkit-transform-origin: 50% 100%;
-  transform-origin: 50% 100%;
-  -webkit-transition-property: transform;
-  transition-property: transform;
-  -webkit-transition-duration: 0.3s;
-  transition-duration: 0.3s;
-  -webkit-transition-timing-function: ease-out;
-  transition-timing-function: ease-out;
+  /*color: #fff !important;*/
 }
 
 section#text-carousel-intro-section {
