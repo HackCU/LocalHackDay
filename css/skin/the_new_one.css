@@ -34,16 +34,6 @@ a, a:hover, a:focus {
   color:#fff;
 }
 
-.btn.btn-blank {
-  border-color: #ffffff;
-  color: #ffffff;
-  background-color: rgba(6,54,81);
-}
-
-.btn.btn-blank:hover {
-  /*color: #fff !important;*/
-}
-
 section#text-carousel-intro-section {
     color: #ffffff;
     z-index: -25;
