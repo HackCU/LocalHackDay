@@ -25,7 +25,6 @@ body {
 	height: 100%;
 	font-size: 14px;
 	color: #363940;
-	background-color: #fff;
 }
 body .body {
 	height: 100%;
@@ -33,9 +32,14 @@ body .body {
 
 canvas {
     position: fixed;
-    z-index: 20;
+    z-index: -20;
     top: 0px;
     left: 0px;
+}
+
+.logo img {
+	width: 300px !important;
+	max-width: 50%;
 }
 
 .cover {
@@ -144,7 +148,7 @@ section {
 
 /* ===== Begin text colors ===== */
 .text-main { color: #363940; } /* Theme main color */
-.text-white { color: #FFF; }
+.text-white { color: #ffffff; }
 .text-off-white { color: #e7e7e7;}
 .text-dark { color: #000; }
 
@@ -301,7 +305,7 @@ section {
 }
 #text-carousel-intro-section .caption {
 	position: relative;
-	top: 30%;
+	top: 150px;
 	margin-top: -90px;
 }
 #text-carousel-intro-section .caption h1 {
@@ -647,12 +651,8 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 
 /* ===== Begin Counter-Up ===== */
 .counter-up {
-	position: relative;
-	background-color: #171717;
+	/*background-color: #171717;*/
 	padding: 80px 0 50px 0;
-}
-.counter-up .cover {
-	background-color: rgba(255,153,51, 0.7);
 }
 .counter-up .fact {
 }
@@ -979,7 +979,7 @@ ul.imp-links li a {
 	text-transform: uppercase;
 }
 p.subtitle {
-	letter-spacing: 2px;
+    font-size: 1.25em;
 	margin-top: 10px;
 }
 /* ===== End page header ===== */
@@ -1081,8 +1081,8 @@ p.subtitle {
 
 /* Button blank */
 .btn-blank {
-	border: 2px solid #ff9d00;
-	color: #ff9d00;
+	border: 2px solid white;
+	color: white;
 	padding: 8px 12px;
 	display: inline-block;
 	vertical-align: middle;
@@ -1100,30 +1100,35 @@ p.subtitle {
 }
 .btn-blank:before {
 	content: "";
+	background: #06679e;
 	position: absolute;
 	z-index: -1;
 	top: 0;
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background: #ff9d00;
 	-webkit-transform: scaleY(0);
 	transform: scaleY(0);
 	-webkit-transform-origin: 50% 100%;
 	transform-origin: 50% 100%;
 	-webkit-transition-property: transform;
 	transition-property: transform;
-	-webkit-transition-duration: 0.3s;
-	transition-duration: 0.3s;
+	-webkit-transition-duration: 0.2s;
+	transition-duration: 0.2s;
 	-webkit-transition-timing-function: ease-out;
 	transition-timing-function: ease-out;
 }
 .btn-blank:hover, .btn-blank:focus, .btn-blank:active {
-	color: #fff;
+	color: white;
 }
 .btn-blank:hover:before, .btn-blank:focus:before, .btn-blank:active:before {
 	-webkit-transform: scaleY(1);
 	transform: scaleY(1);
+}
+
+.btn-plain {
+    color: black;
+    border: 2px solid black;
 }
 
 /* Button active */

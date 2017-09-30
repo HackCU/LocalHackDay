@@ -114,7 +114,7 @@
 
 	/* Text carousel intro section caption */
 	#text-carousel-intro-section .caption {
-		top: 50% !important; /* Removes parallax on caption */
+		/*top: 50% !important;  Removes parallax on caption */
 	}
 	#text-carousel-intro-section .caption h1 {
 		font-size: 34px;

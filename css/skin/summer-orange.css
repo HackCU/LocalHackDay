@@ -211,7 +211,7 @@ a, a:hover, a:focus {
 
 
 /* === Buttons === */
-.btn-default, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active { 
+.btn-default, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
     background: #ff9d00;
     color: #fff;
 }
@@ -284,7 +284,7 @@ a, a:hover, a:focus {
     width: 10%;
 }
 #logo {
-    margin-top: 5em;
+    /*margin-top: 5em;*/
 }
 
 h2 {
@@ -292,7 +292,6 @@ h2 {
 }
 
 #apply-section a{
-    background-color: #fff;
     margin: 2em;
 }
 
@@ -309,25 +308,25 @@ h2 {
 }
 
 @media only screen and (max-width: 767px) {
-    
+
     .logo img {
         width: 35%;
     }
-    
+
     .text-carousel-intro-section {
         background-position: center;
         background-attachment: fixed;
     }
-    
+
     .btn-lg {
 	font-size: 1em;
 	padding: 5px;
     }
-    
+
     .btn-blank {
         padding: 5px;
     }
-    
+
     .imp-links {
         text-align: center;
     }

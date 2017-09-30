@@ -37,21 +37,12 @@ a, a:hover, a:focus {
 
 .navbar-default.navbar-fixed-top.navbar-shrink .navbar-nav > li > a,
 .navbar-default .navbar-nav > li > a {
-  color:rgba(117, 178, 225, .6);
-}
-
-.btn.btn-blank {
-  border-color: #ffffff;
-  color: #ffffff;
-  background-color: rgba(6,54,81);
-}
-
-.btn.btn-blank:hover {
-  /*color: #fff !important;*/
+  color:#fff;
 }
 
 section#text-carousel-intro-section {
     color: #ffffff;
+    z-index: -25;
     background: #063651; /* For browsers that do not support gradients */
 	background: -webkit-linear-gradient(#020913 0%, #00121E 19%, #001F3A 28%, #063651 56%, #2B546B 71%, #827C6C 100%);
 	background: -o-linear-gradient(#020913 0%, #00121E 19%, #001F3A 28%, #063651 56%, #2B546B 71%, #827C6C 100%);
