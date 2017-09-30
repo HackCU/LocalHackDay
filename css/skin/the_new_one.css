@@ -46,6 +46,7 @@ a, a:hover, a:focus {
 
 section#text-carousel-intro-section {
     color: #ffffff;
+    z-index: -25;
     background: #063651; /* For browsers that do not support gradients */
 	background: -webkit-linear-gradient(#020913 0%, #00121E 19%, #001F3A 28%, #063651 56%, #2B546B 71%, #827C6C 100%);
 	background: -o-linear-gradient(#020913 0%, #00121E 19%, #001F3A 28%, #063651 56%, #2B546B 71%, #827C6C 100%);

@@ -25,7 +25,6 @@ body {
 	height: 100%;
 	font-size: 14px;
 	color: #363940;
-	background-color: #fff;
 }
 body .body {
 	height: 100%;
@@ -33,7 +32,7 @@ body .body {
 
 canvas {
     position: fixed;
-    z-index: 20;
+    z-index: -20;
     top: 0px;
     left: 0px;
 }
