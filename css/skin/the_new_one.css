@@ -4,6 +4,12 @@
   background-color: #063651;
 }
 
+.navbar-solid {
+  -webkit-box-shadow: 0 0 4px 5px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0 0 4px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 4px 5px rgba(0, 0, 0, 0.2);
+}
+
 a, a:hover, a:focus {
   color: #315b7f;
 }
