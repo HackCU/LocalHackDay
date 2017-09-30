@@ -11,9 +11,9 @@ function handleTopNavAnimation() {
     console.log("scrolling")
 
 	if(top>10){
-		$('#main-nav').addClass('navbar-solid');
+		$('#site-nav').addClass('navbar-solid');
 	}
 	else{
-		$('#main-nav').removeClass('navbar-solid');
+		$('#site-nav').removeClass('navbar-solid');
 	}
 }
