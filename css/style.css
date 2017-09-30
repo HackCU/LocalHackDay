@@ -983,7 +983,7 @@ ul.imp-links li a {
 	text-transform: uppercase;
 }
 p.subtitle {
-	letter-spacing: 2px;
+    font-size: 1.25em;
 	margin-top: 10px;
 }
 /* ===== End page header ===== */
