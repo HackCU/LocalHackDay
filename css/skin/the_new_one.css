@@ -31,7 +31,7 @@ a, a:hover, a:focus {
 
 .navbar-default.navbar-fixed-top.navbar-shrink .navbar-nav > li > a,
 .navbar-default .navbar-nav > li > a {
-  color:rgba(117, 178, 225, .6);
+  color:#fff;
 }
 
 .btn.btn-blank {
