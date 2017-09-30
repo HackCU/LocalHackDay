@@ -148,7 +148,7 @@ section {
 
 /* ===== Begin text colors ===== */
 .text-main { color: #363940; } /* Theme main color */
-.text-white { color: #FFF; }
+.text-white { color: #ffffff; }
 .text-off-white { color: #e7e7e7;}
 .text-dark { color: #000; }
 
@@ -651,12 +651,8 @@ a.rotate-box-1:hover, a.rotate-box-2:hover {
 
 /* ===== Begin Counter-Up ===== */
 .counter-up {
-	position: relative;
-	background-color: #171717;
+	/*background-color: #171717;*/
 	padding: 80px 0 50px 0;
-}
-.counter-up .cover {
-	background-color: rgba(255,153,51, 0.7);
 }
 .counter-up .fact {
 }
