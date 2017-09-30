@@ -38,6 +38,11 @@ canvas {
     left: 0px;
 }
 
+.logo img {
+	width: 400px !important;
+	max-width: 50%;
+}
+
 .cover {
 	position: absolute;
 	width: 100%;
@@ -301,7 +306,7 @@ section {
 }
 #text-carousel-intro-section .caption {
 	position: relative;
-	top: 30%;
+	top: 150px;
 	margin-top: -90px;
 }
 #text-carousel-intro-section .caption h1 {
