@@ -263,21 +263,20 @@ a, a:hover, a:focus {
 }
 
 #sponsors-section img{
-    opacity: 0.5;
+    transition: all .2s linear;
+    -webkit-filter: contrast(60%) opacity(70%);
+    filter: contrast(60%) opacity(70%);
     max-width: 300px;
 }
 
 #sponsors-section img:hover {
-    opacity: 1;
+    transition: all .2s linear;
+    -webkit-filter: contrast(100%) opacity(100%);
+    filter: contrast(100%) opacity(100%);
 }
 
 #partners-section img{
-    opacity: 0.5;
     max-width: 200px;
-}
-
-#partners-section img:hover {
-    opacity: 1;
 }
 
 .logo img{
