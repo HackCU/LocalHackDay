@@ -38,19 +38,19 @@ function update(dt) {
 
     var W = renderer.view.width;
     var H = renderer.view.height;
-    var sinInc = Math.sin(angle) * 80 * dt;
+    var sinInc = Math.sin(angle) * 50 * dt/2;
 
     for (var i = 0; i < numStars; i++) {
       var leave =stars[i];
 
       if(leave != undefined) {
-        leave.y += (Math.cos(angle + leave.weight) + 1 + leave.width / 25) * 30 * dt;
+        leave.y += (Math.cos(angle + leave.weight) + 1 + leave.width / 25) * 22 * dt;
         leave.x += sinInc;
 
         // Sending flakes back from the top when it exits
         // Lets make it a bit more organic and let flakes enter from the left and right also.
         if (leave.x > W +  5 || leave.x < -5 || leave.y > H) {
-          if (i % 10 > 1) /* 66.67% of the flakes */ {
+          if (i % 20 > 1) /* 90% of the flakes */ {
             stars[i].x = Math.random() * W;
             stars[i].y = - 5;
           } else {
@@ -73,7 +73,7 @@ function update(dt) {
     requestAnimationFrame(function(ts) {mainLoop(ts)});
 
     if(startTime == null) startTime = timestamp;
-    var dt = (timestamp - startTime)/800;
+    var dt = (timestamp - startTime)/700;
     startTime = timestamp;
 
     if(paused == false) {
