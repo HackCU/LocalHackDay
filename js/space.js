@@ -38,13 +38,13 @@ function update(dt) {
 
     var W = renderer.view.width;
     var H = renderer.view.height;
-    var sinInc = Math.sin(angle) * 120 * dt;
+    var sinInc = Math.sin(angle) * 80 * dt;
 
     for (var i = 0; i < numStars; i++) {
       var leave =stars[i];
 
       if(leave != undefined) {
-        leave.y += (Math.cos(angle + leave.weight) + 1 + leave.width / 25) * 60 * dt;
+        leave.y += (Math.cos(angle + leave.weight) + 1 + leave.width / 25) * 30 * dt;
         leave.x += sinInc;
 
         // Sending flakes back from the top when it exits
@@ -73,7 +73,7 @@ function update(dt) {
     requestAnimationFrame(function(ts) {mainLoop(ts)});
 
     if(startTime == null) startTime = timestamp;
-    var dt = (timestamp - startTime)/700;
+    var dt = (timestamp - startTime)/800;
     startTime = timestamp;
 
     if(paused == false) {
@@ -101,7 +101,7 @@ function update(dt) {
     s.position.x = Math.random() * renderer.width;
     s.position.y = Math.random() * renderer.height;
     s.alpha = Math.random();
-    s.weight = Math.random() * 40;
+    s.weight = Math.random() * 20;
     s.scale.x = scale;
     s.scale.y = scale;
     return s;
