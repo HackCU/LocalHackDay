@@ -21,7 +21,7 @@ $(function() {
   var circle = createCircleSprite();
 
   // Constants
-  var numStars = 1000;
+  var numStars = 500;
 
   // Init stars
   var stars = [];
@@ -97,7 +97,7 @@ function update(dt) {
   // Element constructors
   function createStar () {
     var s = new PIXI.Sprite(circle);
-    var scale = Math.random() * 2;
+    var scale = (Math.random() * 1.5)+ 0.5;
     s.position.x = Math.random() * renderer.width;
     s.position.y = Math.random() * renderer.height;
     s.alpha = Math.random();
