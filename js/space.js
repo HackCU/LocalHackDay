@@ -9,11 +9,14 @@ $(function() {
   renderer.view.style.height = "100%";
   document.body.insertBefore(renderer.view, document.body.childNodes[0]);
 
+  var paused = false;
+
 
 
 
   var stage = new PIXI.Container();
-
+  var startTime = null;
+  var angle = 0;
   // Init sprites
   var circle = createCircleSprite();
 
@@ -29,18 +32,55 @@ $(function() {
   }
   renderer.render(stage);
 
-  // Render loop
-  requestAnimationFrame(animate);
-  function animate() {
-    requestAnimationFrame( animate );
-    var time = Date.now() / 1000;
-    for (var i=0; i < numStars; ++i) {
-      var s = stars[i];
-      var freq = i/numStars;
-      var ampl = i*numStars;
-      s.alpha = freq * Math.sin(time + ampl);
+
+function update(dt) {
+    angle += 0.6*dt;
+
+    var W = renderer.view.width;
+    var H = renderer.view.height;
+    var sinInc = Math.sin(angle) * 120 * dt;
+
+    for (var i = 0; i < numStars; i++) {
+      var leave =stars[i];
+
+      if(leave != undefined) {
+        leave.y += (Math.cos(angle + leave.weight) + 1 + leave.width / 25) * 60 * dt;
+        leave.x += sinInc;
+
+        // Sending flakes back from the top when it exits
+        // Lets make it a bit more organic and let flakes enter from the left and right also.
+        if (leave.x > W +  5 || leave.x < -5 || leave.y > H) {
+          if (i % 10 > 1) /* 66.67% of the flakes */ {
+            stars[i].x = Math.random() * W;
+            stars[i].y = - 5;
+          } else {
+            // If the flake is exitting from the right
+            if (Math.sin(angle) > 0) {
+              stars[i].x = -5;
+              stars[i].y = Math.random() * H;
+            } else {
+              stars[i].x = W + 5;
+              stars[i].y = Math.random() * H;
+            }
+          }
+        }
+      }
     }
-    renderer.render(stage);
+  }
+  
+
+  function mainLoop(timestamp) {
+    requestAnimationFrame(function(ts) {mainLoop(ts)});
+
+    if(startTime == null) startTime = timestamp;
+    var dt = (timestamp - startTime)/700;
+    startTime = timestamp;
+
+    if(paused == false) {
+      renderer.render(stage);
+
+      update(dt);
+    }
   }
 
   // Sprite constructors
@@ -61,6 +101,7 @@ $(function() {
     s.position.x = Math.random() * renderer.width;
     s.position.y = Math.random() * renderer.height;
     s.alpha = Math.random();
+    s.weight = Math.random() * 40;
     s.scale.x = scale;
     s.scale.y = scale;
     return s;
@@ -72,4 +113,7 @@ $(function() {
 
   window.addEventListener('resize', resize , false)
   resize()
+
+  requestAnimationFrame(function(ts) {mainLoop(ts)});
+
 })
