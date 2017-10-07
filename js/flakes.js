@@ -73,7 +73,6 @@ function mainLoop(timestamp) {
   // If user has been away then dt increases to over 3 in most cases. In that case we want to avoid dt so high as all the flakes will 
   // be restarted from the top
   if (dt>3) {
-     console.log(dt);
      dt=0;
   }
   startTime = timestamp;

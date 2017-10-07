@@ -8,7 +8,6 @@ $(function(){
 
 function handleTopNavAnimation() {
     var top=$(window).scrollTop();
-    console.log("scrolling")
 
 	if(top>10){
 		$('#site-nav').addClass('navbar-solid');
