@@ -304,6 +304,7 @@ section {
 /* ===== Begin intro ===== */
 /* Begin text carousel intro */
 #text-carousel-intro-section {
+	height: 100%;
 	height: 100vh;
 }
 #text-carousel-intro-section .container {
