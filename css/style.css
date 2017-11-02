@@ -40,23 +40,52 @@ canvas {
 }
 
 .snow-section {
-	/*z-index: -25;*/
+	background: transparent !important;
 }
+
+.header {
+	height: 100%;
+}
+
+.container {
+	background: transparent;
+}
+
 
 .logo img {
 	width: 300px !important;
 	max-width: 50%;
 }
 
-.cover {
+.cover-flatirons {
 	position: absolute;
 	width: 100%;
 	height: 100%;
 	left: 0px;
 	top: 0px;
-	background-color: rgba(0, 46, 82, 0.15);
+	background: url(../img/flatirons.jpg);
+	filter: brightness(80%);
+	background: linear-gradient(rgba(49,91,127,0.5),rgba(49,91,127,0.5)), url(../img/flatirons.jpg);
+	background-size: cover;
+
 	padding: 20px;
+	z-index: -25;
 }
+
+.cover-small {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	left: 0px;
+	top: 0px;
+	background: url(../img/smallcover.jpg);
+
+	background: linear-gradient(rgba(0, 46, 82, 0.5),rgba(0, 46, 82, 0.5)), url(../img/smallcover.jpg);
+	padding: 20px;
+	background-size: cover;
+	z-index: -25;
+}
+
 .page {
   overflow: hidden;
   background-color: #fff;
