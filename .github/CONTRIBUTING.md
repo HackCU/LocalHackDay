@@ -23,3 +23,14 @@ Want to contribute to this repo? Great! We :heart: contributions. Just make sure
 	You will most probably end up making the third change.
 3. Test locally and make sure the website functions properly and you didn't break anything.
 4. Create a pull request with a descriptive title. Clearly document any changes you made. You should be able to explain why you made those changes.
+
+## Adding a new sponsor or partner logo?
+Follow the usual GitHub workflow outlined in the [first section](#new-feature-or-a-bug-fix?).
+Then follow these specific guidelines for resizing the logo.
+If you don't have access to professional tools like Photoshop, download [Gimp]. It is open source and has all the features you will need for resizing logos.
+1. Store the original logo in the `originals/` folder.
+2. Resize the logo to `600 x 400` px i.e., 600 px wide and 400 px tall.
+3. When resizing, turn on anti-aliasing to make sure the logo doesn't pixelate too much.
+4. Center the logo and make sure to leave some whitespace around the margins. If in doubt, add the logo to the website and view your changes on the browser to check if it is aligned properly and the logo is neither too large not too small compared to other logos.
+5. Finally, remove the background i.e., the background should be transparent and save as `PNG` file.
+If you're feeling lucky, try compressing the image outlined [here](https://github.com/HackCU/HackCU/pull/14).
