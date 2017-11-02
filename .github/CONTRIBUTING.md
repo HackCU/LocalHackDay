@@ -27,7 +27,7 @@ Want to contribute to this repo? Great! We :heart: contributions. Just make sure
 ## Adding a new sponsor or partner logo?
 Follow the usual GitHub workflow outlined in the [first section](#new-feature-or-a-bug-fix?).
 Then follow these specific guidelines for resizing the logo.
-If you don't have access to professional tools like Photoshop, download [Gimp]. It is open source and has all the features you will need for resizing logos.
+If you don't have access to professional tools like Photoshop, download [GIMP](https://www.gimp.org/downloads/). It is free, open source, and has all the features you will need for resizing logos.
 1. Store the original logo in the `originals/` folder.
 2. Resize the logo to `600 x 400` px i.e., 600 px wide and 400 px tall.
 3. When resizing, turn on anti-aliasing to make sure the logo doesn't pixelate too much.
