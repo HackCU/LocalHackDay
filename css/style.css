@@ -1220,3 +1220,9 @@ td {
         padding-left: 2em;
 }
 /* ===== End tables ===== */
+
+/* Old sponsors */
+.old-sponsors img {
+    width: auto;
+    height: 100%;
+}
