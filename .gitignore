@@ -4,3 +4,4 @@ workspace.xml
 Thumbs.db
 .idea/*
 .DS_Store
+_site
