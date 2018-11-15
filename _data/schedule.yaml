@@ -1,22 +1,22 @@
-- name: Check-In
+- name: Arrival and Check-in
   day:  1
-  time: "7:00 am"
+  time: "08:00 am"
 
 - name: Breakfast
   day:  1
-  time: "7:30 am"
+  time: "08:00 am"
 
 - name: Opening Ceremonies
   day:  1
-  time: "8:00 am"
+  time: "08:30 am"
 
 - name: Hacking Begins!
   day:  1
-  time: "8:00 am"
+  time: "09:00 am"
 
 - name: Team formation
   day:  1
-  time: "8:30 am"
+  time: "09:00 am"
 
 - name: Lunch
   day:  1
@@ -28,20 +28,16 @@
   
 - name: Desserts
   day:  2
-  time: "9:00 pm"
+  time: "8:00 pm"
 
 - name: Hacking Ends
   day:  2
-  time: "11:00 pm"
+  time: "9:00 pm"
 
-- name: Project Expo / Judging
+- name: Project presentations
   day:  2
-  time: "11:30 pm"
-
-- name: Closing Ceremonies w top 3 presentations
-  day:  2
-  time: "12:00 am"
+  time: "9:10 pm"
 
 - name: End of event
   day:  2
-  time: "1:00 am"
+  time: "10:00 pm"
