@@ -1,0 +1,9 @@
+- name: Particle.io
+  image-url: /assets/images/sponsors/particle.png
+  tier: gold
+  url: https://www.particle.io/
+
+- name: Misty Robotics
+  image-url: /assets/images/sponsors/mistyrobotics.png
+  tier: silver
+  url: https://mistyrobotics.com

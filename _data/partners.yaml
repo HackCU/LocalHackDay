@@ -1,0 +1,16 @@
+# - name: MLH
+#   image-url: /assets/images/partners/mlh.png
+#   url: https://mlh.io
+
+- name: CU Engineering
+  image-url: /assets/images/partners/engineering.png
+  url: http://www.colorado.edu/engineering/
+
+# - name: Buurridge Center for Finance
+#   image-url: /assets/images/partners/Burridge.png
+#   url: http://burridgecenter.colorado.edu/html/index.html
+
+- name: SendGrid
+  image-url: /assets/images/partners/sendgrid.png
+  url: https://sendgrid.com/
+

@@ -1,75 +1,88 @@
-<!doctype html>
-<html lang="en-US">
+---
+---
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
 
+    <!-- Meta Information -->
     <meta charset="utf-8">
-    <!-- <meta http-equiv="X-UA-Compatible" content="IE=edge"> -->
-    <title>Local Hack Day | 2018</title>
-    <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="img/favicon.ico" type="image/x-icon">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+
 
     <!-- for Google -->
-    <meta name="description" content="Join us for Local Hack Day at the University of Colorado Boulder."/>
-    <meta name="keywords" content="Hackathon, MLH, LocalHackDay, HackCU, Boulder, Colorado, CU, University"/>
+    <meta name="description" content="{{site.description}}"/>
+    <meta name="keywords" content="Local Hack Day, HackCU, makeathon, hackathon, CU Boulder, Boulder, Idea Forge, MLH"/>
     <meta name="author" content="HackCU"/>
-    <meta name="theme-color" content="#315B7F">
+    <meta name="theme-color" content="#315b7f">
     <meta name="copyright" content="HackCU"/>
-    <meta name="application-name" content="Local Hack Day 2018"/>
+    <meta name="application-name" content="{{site.title}}"/>
 
     <!-- for Facebook -->
-    <meta property="og:title" content="Local Hack Day 2018"/>
-    <meta property="og:image" content="img/og-image.png"/>
-    <meta property="og:image:secure_url" content="img/og-image.png">
-    <meta property="og:url" content="https://local.hackcu.org"/>
-    <meta property="og:description" content="Join us for Local Hack Day at the University of Colorado Boulder."/>
-
+    <meta property="og:title" content="{{site.title}}"/>
+    <meta property="og:image" content="https://phase.hackcu.org/assets/images/ogimage870x450.png"/>
+    <meta property="og:image:secure_url" content="https://phase.hackcu.org/assets/images/ogimage870x450.png">
+    <meta property="og:url" content="https://phase.hackcu.org"/>
+    <meta property="og:description" content="{{site.description}}"/>
     <!-- for Twitter -->
     <meta name="twitter:card" content="summary_large_image"/>
-    <meta name="twitter:title" content="Local Hack Day 2018"/>
+    <meta name="twitter:title" content="{{site.title}}"/>
     <meta name="twitter:site" content="@hackcu">
     <meta name="twitter:creator" content="@hackcu">
-    <meta name="twitter:description" content="Join us for Local Hack Day at the University of Colorado Boulder."/>
-    <meta name="twitter:image" content="https://local.hackcu.org/img/og-image.png"/>
+    <meta name="twitter:description" content="{{site.description}}"/>
+    <meta name="twitter:image" content="https://phase.hackcu.org/assets/images/ogimage870x450.png"/>
 
-    <!-- Libs and Plugins CSS -->
-    <link rel="stylesheet" href="inc/bootstrap/css/bootstrap.min.css">
-    <link rel="stylesheet" href="inc/font-awesome/css/font-awesome.min.css"> <!-- Font Icons -->
+    <title>{%if page.title %}{{page.title}} | {%endif%}{{site.title}}</title>
 
-    <!-- Theme CSS -->
-    <link rel="stylesheet" href="css/reset.css?_={{ site.time |  date: '%s' }}">
-    <link rel="stylesheet" href="css/style.css?_={{ site.time |  date: '%s' }}">
-    <link rel="stylesheet" href="css/mobile.css?_={{ site.time |  date: '%s' }}">
-    <link rel="stylesheet" href="css/form.css?_={{ site.time |  date: '%s' }}">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
 
-    <!-- Skin CSS -->
-    <link rel="stylesheet" href="css/skin/summer-orange.css?_={{ site.time |  date: '%s' }}">
-    <link rel="stylesheet" href="css/skin/the_new_one.css?_={{ site.time |  date: '%s' }}">
+    <!-- Reset CSS -->
+    <link rel="stylesheet" href="assets/css/reset.css">
 
+    <!-- Bootstrap Core CSS -->
+    <link rel="stylesheet" href="assets/lib/bootstrap.min.css">
+
+    <!-- Font awesome -->
+    <link rel="stylesheet" href="assets/lib/font-awesome.min.css">
+
+    <!-- Our own CSS, yay! -->
+    <link rel="stylesheet" href="assets/css/style.css?_={{ site.time |  date: '%s' }}">
+
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
+
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-129304904-1"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-129304904-1');
+  </script>
 
 </head>
+
 <body>
-
+<!-- <a id="mlh-trust-badge"
+   style="display:block;max-width:100px;min-width:60px;position:absolute;right:50px;top:0;width:10%;z-index:10000"
+   href="https://mlh.io/seasons/na-2018/events?utm_source=na-2018&utm_medium=TrustBadge&utm_campaign=na-2018&utm_content=gray"
+   target="_blank"><img src="https://s3.amazonaws.com/logged-assets/trust-badge/2018/gray.svg"
+                        alt="Major League Hacking 2017 Hackathon Season" style="width:100%"></a> -->
 {{content}}
+{% include footer.html %}
 
-<!-- Plugins JS -->
-<script src="inc/jquery/jquery-1.11.1.min.js"></script>
-<script src="inc/bootstrap/js/bootstrap.min.js"></script>
-<script src="inc/waypoints.min.js"></script> <!-- Some features break when removing this -->
-<script src="inc/jquery.counterup.min.js"></script>
+<!-- Bootstrap Core JavaScript -->
 
-<!-- Theme JS -->
-<script src="js/theme.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.5.1/pixi.min.js"></script>
+<script src="assets/js/flakes.js?_={{ site.time |  date: '%s' }}"></script>
+<script src="assets/lib/bootstrap.min.js"></script>
 
 
-<!-- JQuery JS -->
-<!-- <script src="js/jquery-3.2.1.min.js"></script> -->
 
-<!-- Pixi JS -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pixi.js/4.0.0/pixi.min.js"></script>
 
-<!-- Pixi JS -->
-<script src="js/flakes.js?_={{ site.time |  date: '%s' }}"></script>
-<script src="js/scroll.js"></script>
 </body>
+
 </html>

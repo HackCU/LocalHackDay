@@ -1,0 +1,13 @@
+original_repo: https://github.com/hackcu/localhackday
+
+volunteers_form: "mailto:contact@hackcu.org"
+mentors_form: "mailto:contact@hackcu.org"
+hackers_form: https://localhackday.mlh.io/lhd-2018/events/307-university-of-colorado
+
+description: "Join us for Local Hack Day on December 1, 2018 at the University of Colorado Boulder."
+title: Local Hack Day 2018
+og_image: https://phase.hackcu.org/assets/images/ogimage870x450.png
+
+sass:
+    sass_dir: assets/_sass
+    style: compressed
