@@ -51,6 +51,7 @@ body {
   width: 100%;
   background: linear-gradient(rgba(49, 91, 127, 0.5), rgba(49, 91, 127, 0.5)), url(../images/flatirons.jpg);
   background-size: cover;
+  background-attachment: fixed;
   font-family: Roboto, sans-serif;
 }
 
@@ -63,7 +64,7 @@ hr {
 }
 
 canvas {
-  position: absolute;
+  position: fixed;
   background-color: transparent;
   top: 0;
   left: 0;
