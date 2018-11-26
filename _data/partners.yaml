@@ -14,3 +14,6 @@
   image-url: /assets/images/partners/sendgrid.png
   url: https://sendgrid.com/
 
+- name: GitHub
+  image-url: /assets/images/sponsors/github.png
+  url: https://education.github.com/

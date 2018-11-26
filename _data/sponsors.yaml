@@ -1,7 +1,7 @@
-- name: Particle.io
-  image-url: /assets/images/sponsors/particle.png
+- name: GitHub
+  image-url: /assets/images/sponsors/github.png
   tier: gold
-  url: https://www.particle.io/
+  url: https://https://education.github.com/
 
 - name: Misty Robotics
   image-url: /assets/images/sponsors/mistyrobotics.png
