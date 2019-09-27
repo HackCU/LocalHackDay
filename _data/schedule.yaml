@@ -1,43 +1,43 @@
 - name: Arrival and Check-in
-  day:  1
+  day:  one
   time: "08:00 am"
 
 - name: Breakfast
-  day:  1
+  day:  one
   time: "08:00 am"
 
 - name: Opening Ceremonies
-  day:  1
+  day:  one
   time: "08:30 am"
 
 - name: Hacking Begins!
-  day:  1
+  day:  one
   time: "09:00 am"
 
 - name: Team formation
-  day:  1
+  day:  one
   time: "09:00 am"
 
 - name: Lunch
-  day:  1
+  day: one
   time: "12:00 pm"
 
 - name: Dinner
-  day:  2
+  day:  two
   time: "6:00 pm"
   
 - name: Desserts
-  day:  2
+  day:  two
   time: "8:00 pm"
 
 - name: Hacking Ends
-  day:  2
+  day:  two
   time: "9:00 pm"
 
 - name: Project presentations
-  day:  2
+  day:  two
   time: "9:10 pm"
 
 - name: End of event
-  day:  2
+  day:  two
   time: "10:00 pm"
