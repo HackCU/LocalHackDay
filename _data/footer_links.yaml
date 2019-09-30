@@ -3,14 +3,13 @@
   url: https://static.mlh.io/docs/mlh-code-of-conduct.pdf
 - name: "HackCU"
   url: https://pages.hackcu.org/code_conduct/
-
 - name: "More events:"
   url: https://events.hackcu.org/
   line_break: True
 - name: HackCU
   url: https://hackcu.org/
-- name: Phase
-  url: https://phase.hackcu.org/
 - name: S2S
   url: https://startups2students.org/
+- name: Phase
+  url: https://phase.hackcu.org/
   
