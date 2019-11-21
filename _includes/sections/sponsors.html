@@ -11,7 +11,7 @@
         <div class="row">
             {% assign diamond = site.data.sponsors | where:"tier","diamond" %}
             {% if diamond[0] %}
-                <h3>Platinium sponsors</h3>
+                <h3>Platinum sponsors</h3>
             {% endif %}
             <ul class="sponsors gold">
                 {% for sponsor in diamond %}
@@ -68,7 +68,7 @@
                 {%endfor%}
             </ul>
         </div>
-        <div class="buttons reverse title"> 
+        {% comment %} <div class="buttons reverse title"> 
             <!--Inspired by https://github.com/HackCU/HackCU-Temp by Alex Walling-->
             <div class="svg-wrapper ">
                 <svg height="40" width="150" xmlns="http://www.w3.org/2000/svg">
@@ -78,6 +78,6 @@
                     </div>
                 </svg>
             </div>
-        </div>
+        </div> {% endcomment %}
 
 </section>

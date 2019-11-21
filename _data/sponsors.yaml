@@ -1,9 +1,4 @@
-- name: GitHub
-  image-url: /assets/images/sponsors/github.png
-  tier: gold
-  url: https://https://education.github.com/
-
-- name: Misty Robotics
-  image-url: /assets/images/sponsors/mistyrobotics.png
+- name: Technology, Cybersecurity, and Policy Program
+  image-url: /assets/images/sponsors/tcp.png
   tier: silver
-  url: https://mistyrobotics.com
+  url: https://www.colorado.edu/program/tcp/
