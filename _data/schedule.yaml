@@ -1,22 +1,22 @@
 - name: Arrival and Check-in
   day:  one
-  time: "08:00 am"
+  time: "8:00 am"
 
 - name: Breakfast
   day:  one
-  time: "08:00 am"
+  time: "8:00 am"
 
 - name: Opening Ceremonies
   day:  one
-  time: "08:30 am"
+  time: "8:30 am"
 
 - name: Hacking Begins!
   day:  one
-  time: "09:00 am"
+  time: "9:00 am"
 
 - name: Team formation
   day:  one
-  time: "09:00 am"
+  time: "9:00 am"
 
 - name: Lunch
   day: one
@@ -34,9 +34,9 @@
   day:  two
   time: "9:00 pm"
 
-- name: Project presentations
+- name: Project Expo
   day:  two
-  time: "9:10 pm"
+  time: "9:00 pm"
 
 - name: End of event
   day:  two
