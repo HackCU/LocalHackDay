@@ -144,7 +144,6 @@ header {
     padding-bottom: 3vh;
   }
   
-
   .svg-wrapper {
     margin-top: 0;
     position: relative;
@@ -171,6 +170,7 @@ header {
       }
 
     }
+
     .shape {
       stroke-width: 8px;
       fill: $white-color;
@@ -180,6 +180,16 @@ header {
       @include transition(1s all ease);
 
     }
+    .big-button.shape {
+      stroke-width: 8px;
+      fill: $white-color;
+      stroke: lighten($accent-color, 10%);
+      stroke-dasharray: 290 400;
+      stroke-dashoffset: -330;
+      @include transition(1s all ease);
+
+    }
+
 
     .text {
       margin-top: -40px;
@@ -195,6 +205,7 @@ header {
     }
 
   }
+
 
   &.accent {
 
