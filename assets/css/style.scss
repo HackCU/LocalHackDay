@@ -144,7 +144,7 @@ header {
     padding-bottom: 3vh;
   }
   
-  .svg-wrapper-1 {
+  .svg-wrapper {
     margin-top: 0;
     position: relative;
     display: inline-block;
@@ -170,6 +170,7 @@ header {
       }
 
     }
+
     .shape {
       stroke-width: 8px;
       fill: $white-color;
@@ -179,49 +180,7 @@ header {
       @include transition(1s all ease);
 
     }
-
-    .text {
-      margin-top: -40px;
-      color: $main-color;
-      font-size: 1.5em;
-      text-align: center;
-    }
-
-    &:hover .shape {
-      stroke: $accent-color;
-      stroke-dasharray: 50 0;
-      stroke-dashoffset: 0;
-    }
-
-  }
-
-  .svg-wrapper-2 {
-    margin-top: 0;
-    position: relative;
-    display: inline-block;
-    margin-left: 10px;
-    margin-right: 10px;
-    padding-bottom: 3vh;
-    text-transform: uppercase;
-    border-radius: 3px;
-
-    a {
-      color: $main-color;
-      text-decoration: none;
-
-      padding: 5px 10px;
-    }
-
-    svg {
-      background-color: transparent;
-      @include box-shadow(0px 2px 8px 3px rgba(0, 0, 0, 0.2));
-
-      &:hover {
-        @include box-shadow(0px 2px 8px 0px rgba(0, 0, 0, 0.2));
-      }
-
-    }
-    .shape {
+    .big-button.shape {
       stroke-width: 8px;
       fill: $white-color;
       stroke: lighten($accent-color, 10%);
@@ -231,6 +190,7 @@ header {
 
     }
 
+
     .text {
       margin-top: -40px;
       color: $main-color;
@@ -245,6 +205,7 @@ header {
     }
 
   }
+
 
   &.accent {
 
